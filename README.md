@@ -1,5 +1,9 @@
 # Hotbar Swap Addon
 
+<p align="center">
+  <img src="image/Hotbar Swap addon banner.png?raw=true" alt="Addon's banner" width="800"/>
+</p>
+
 ## Presentation
 
 Add a keybind to cycle through your inventory, save time by not having to go in your inventory
