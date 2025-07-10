@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.dravigen.hotbar_swap.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "GameSettingsMixin"
+  ],
+  "client": [
+    "EntityPlayerSPMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
