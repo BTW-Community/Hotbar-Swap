@@ -6,13 +6,13 @@
 
 ## Presentation
 
-Add a keybind to cycle through your inventory, save time by not having to go in your inventory
+Add a keybind to cycle hotbar, save time by not having to go in your inventory
 
 ## How to use
 
 By default "H" is the keybind used:
-- by pressing "H" your current hotbar slot will cycle through the corresponding column of you inventory
-- by pressing "H" while sneaking your whole hotbar will cycle through your whole inventory
+- By pressing "H" your current hotbar slot will cycle through the corresponding column of your inventory
+- By pressing "H" while sneaking your whole hotbar will cycle through your whole inventory
 
 ## Download
 
