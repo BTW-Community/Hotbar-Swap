@@ -16,7 +16,7 @@ By default "H" is the keybind used:
 
 ## Download
 
-https://github.com/BTW-Community/Hotbar-Swap/edit/releases
+https://github.com/BTW-Community/Hotbar-Swap/releases
 
 ## License
 
