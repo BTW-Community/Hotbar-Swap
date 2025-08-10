@@ -6,7 +6,7 @@
 
 ## Presentation
 
-Add a keybind to cycle hotbar, save time by not having to go in your inventory
+Add a keybind to cycle through your inventory
 
 ## How to use
 
