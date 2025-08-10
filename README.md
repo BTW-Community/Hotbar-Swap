@@ -1,4 +1,4 @@
-# Hotbar Swap Addon
+# Hotbar Swap (BtW 3.X Addon)
 
 <p align="center">
   <img src="image/Hotbar Swap addon banner.png?raw=true" alt="Addon's banner" width="800"/>
