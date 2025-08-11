@@ -14,6 +14,10 @@ By default "H" is the keybind used:
 - By pressing "H" your current hotbar slot will cycle through the corresponding column of your inventory
 - By pressing "Ctrl"+"H" your whole hotbar will cycle through your whole inventory
 
+## Found a bug or have suggestions ?
+
+https://github.com/BTW-Community/Hotbar-Swap/issues
+
 ## Download
 
 https://github.com/BTW-Community/Hotbar-Swap/releases
