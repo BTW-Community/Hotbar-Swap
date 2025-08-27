@@ -27,7 +27,7 @@ public abstract class EntityPlayerSPMixin extends AbstractClientPlayer {
             if (!keyPressed) {
                 int windowId = this.inventoryContainer.windowId;
                 PlayerControllerMP controllerMP = this.mc.playerController;
-                if (Keyboard.isKeyDown(Keyboard.KEY_LCONTROL)) {
+                if (this.mc.gameSettings.keyBindSneak.pressed) {
                     for (int column = 0; column <= 8; column++) {
                         int hotbarSlot = 9 + column;
                         int row1Slot = 18 + column;
