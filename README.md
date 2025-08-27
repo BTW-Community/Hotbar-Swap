@@ -6,7 +6,17 @@
 
 ## Presentation
 
-Add a keybind to cycle through your inventory, save time by not having to go in your inventory
+Add a keybind to cycle through your inventory
+
+## How to use
+
+By default "H" is the keybind used:
+- By pressing "H" your current hotbar slot will cycle through the corresponding column of your inventory
+- By pressing "H" while sneaking your whole hotbar will cycle through your whole inventory
+
+## Download
+
+https://github.com/DraViGen/BtW-Hotbar_Swap/releases
 
 ## License
 
