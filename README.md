@@ -12,7 +12,7 @@ Add a keybind to cycle through your inventory
 
 By default "H" is the keybind used:
 - By pressing "H" your current hotbar slot will cycle through the corresponding column of your inventory
-- By pressing "Ctrl"+"H" your whole hotbar will cycle through your whole inventory
+- By pressing "Sneak"+"H" your whole hotbar will cycle through your whole inventory
 
 ## Found a bug or have suggestions ?
 
